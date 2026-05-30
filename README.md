@@ -15,4 +15,3 @@
 
 🌐 Website:
 https://redrox-developer.netlify.app
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedRox&show_icons=true)
