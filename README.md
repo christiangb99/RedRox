@@ -15,3 +15,6 @@
 
 🌐 Website:
 https://redrox-developer.netlify.app
+
+📫 Contact:
+Discord: sanseyyblack
