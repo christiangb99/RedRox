@@ -14,4 +14,5 @@
 - AI experiments
 
 📫 Contact:
-- Your email or website
+- Chriistiangb99@gmail.com
+- https://redrox-developer.netlify.app/
