@@ -15,6 +15,3 @@
 
 🌐 Website:
 https://redrox-developer.netlify.app
-
-📫 Contact:
-christiangb99@gmail.com
