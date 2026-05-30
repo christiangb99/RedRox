@@ -2,17 +2,19 @@
 
 🎓 Student
 
-💻 Learning:
+💻 Currently learning:
 - HTML
 - CSS
 - JavaScript
-- AI tools
+- AI Tools
 
-🚀 Current projects:
-- Personal website
-- Discord bots
-- AI experiments
+🚀 Projects:
+- Personal Website
+- Discord Bots
+- AI Experiments
+
+🌐 Website:
+https://redrox-developer.netlify.app
 
 📫 Contact:
-- Chriistiangb99@gmail.com
-- https://redrox-developer.netlify.app/
+christiangb99@gmail.com
